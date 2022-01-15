@@ -36,6 +36,7 @@ main::after{
     position: absolute;
     right: -5%;
     bottom: -60%;
+    overflow: hidden;
 }
 
 .grc{
